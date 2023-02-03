@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+p {
+    color: rgb(26, 0, 75);
+}
+
+.about {
+    background: rgb(0, 204, 255);
+    padding: 10px;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+}
+
+.column{
+    float: left;
+    margin-right: 15px;
+    margin: 15px;
+    width: 23.2%;
+}
+
+.card{
+    box-shadow: 0px 4px 8px rgb(0, 204, 255);
+    padding: 0 16px 0 16px;
+}
+.container{
+    color:rgb(0, 79, 99);
+}
+.s{
+    font-size: 100;
+}
